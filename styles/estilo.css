@@ -69,6 +69,7 @@ main .main-input{
   width: 530px;
   margin: 0 auto;
   margin-bottom:20px;
+  margin-top: 20px;
 }
 
 main .main-input-container{
@@ -95,7 +96,7 @@ main .main-input-container:hover{
 }
 
 main .main-input .search-icon{
-  background-image: url('');
+  background-image: url('https://w7.pngwing.com/pngs/456/948/png-transparent-computer-icons-desktop-web-search-engine-wordpress-com-search-icon-search-logo-website-circle-wordpresscom-thumbnail.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -104,10 +105,10 @@ main .main-input .search-icon{
 }
 
 main .main-input .micro-icon{
-  background-image: url('');
+  background-image: url('https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  width: 18px;
-  height: 18px;
+  width: 22px;
+  height: 22px;
 }
